@@ -1,0 +1,7 @@
+query,ai_triage
+patient has cough and fever,"AI Triage: cough -> Pneumonia Risk, fever -> Infection"
+chest pain and breathless patient,"AI Triage: chest pain -> Cardiac Issue, breathless -> Respiratory"
+headache and fatigue,"AI Triage: headache -> General Infection, fatigue -> Chronic Condition"
+no symptoms mentioned,General Checkup - Needs ML Analysis
+cough fever nausea diarrhea,"AI Triage: diarrhea -> Gastrointestinal, nausea -> Gastrointestinal, cough -> Pneumonia Risk, fever -> Infection"
+joint pain and chest pain,"AI Triage: chest pain -> Cardiac Issue, joint pain -> Musculoskeletal"
