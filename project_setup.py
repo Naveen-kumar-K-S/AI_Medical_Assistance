@@ -1,8 +1,3 @@
-# ================================================
-# PROJECT SETUP: Rule-based AI triage
-# ================================================
-
-# Simple keyword-based rules for triage
 TRIAGE_RULES = {
     "cough": "Pneumonia Risk",
     "fever": "Infection",
